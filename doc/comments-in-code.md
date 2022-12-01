@@ -19,7 +19,7 @@ option=value
 # Comment
 ```
 
-### JSON (.json)
+### JSON (.json; .mcmeta)
 JSON doesnt support comments. Its data only
 
 ### Language (.lang)
