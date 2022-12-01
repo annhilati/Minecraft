@@ -28,6 +28,12 @@ option=value
 / Comment
 ```
 
+### Minecraft function
+```mcfunction
+command to do something
+# Comment
+```
+
 ### YAML (.yml)
 ```yaml
 option: value
