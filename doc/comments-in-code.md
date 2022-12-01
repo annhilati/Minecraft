@@ -7,7 +7,7 @@ Comment
 */
 
 code{
-	variable = value();
+	option = value();
 }
 
 // Another Comment //
@@ -15,15 +15,21 @@ code{
 
 ### Java properties (.properties)
 ```properties
-variable=value
+option=value
 # Comment
 ```
 
 ### JSON (.json)
 JSON doesnt support comments. Its data only
 
+### Language (.lang)
+```
+option=value
+/ Comment
+```
+
 ### YAML (.yml)
 ```yaml
-variable: value
+option: value
 # Comment
 ```
