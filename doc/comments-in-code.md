@@ -28,7 +28,7 @@ option=value
 / Comment
 ```
 
-### Minecraft function
+### Minecraft function (.mcfunction)
 ```mcfunction
 command to do something
 # Comment
