@@ -1,6 +1,6 @@
 # Comments
 
-### GLSL (.glsl; .fsh; .vsh)
+### GLSL (.glsl; .fsh; .vsh; .settings)
 ```glsl
 /*
 Comment
