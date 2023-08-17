@@ -1,4 +1,8 @@
-Version | data versions | texture versions | data snapshots | texture versions
+# pack_format
+Used for specifying the compatibility for resource packs and versions  
+[Minecraft Wiki](https://minecraft.fandom.com/wiki/Pack_format)
+
+Version | Data versions | Texture versions | Data Snapshots | Texture Snapshots
 ------- | ------------- | ---------------- | -------------- | ----------------
 1       | - | 1.6.1–1.8.9 | - |  
 2       | - | 1.9–1.10.2 | - |  
