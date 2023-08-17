@@ -17,7 +17,7 @@
 # this commands only have to be executed once
 
 # Create bossbar
-bossbar add *idnamespace*:*idname* *Name*
+bossbar add *idnamespace*:*idname* *name*
 
 # Color and style
 bossbar set *id* color *color*
