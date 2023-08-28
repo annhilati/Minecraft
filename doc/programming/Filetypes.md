@@ -9,3 +9,4 @@
   | .mcmeta        | JSON   | Define animations and simple effects<br> Pack meta data file (pack.mcmeta) | -
   | .properties    | Java Properties | Basic settings for servers (server.properties) | Basic settings for shaders (shader.properties)<br> Settings for Optifine assets features (assets/minecraft/optifine)
   | .txt           | Java Properties | Store client settings<br> Server EULA (EULA.txt)<br> Define text elements in resource packs (assets/texts) | Store Optifines client settings 
+  | .yml           | YAML   | - | -
