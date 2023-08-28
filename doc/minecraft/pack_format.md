@@ -2,7 +2,7 @@
 Used for specifying the compatibility for resource packs and versions  
 [Minecraft Wiki](https://minecraft.fandom.com/wiki/Pack_format)
 
-Version | Data Releases | Texture Releases | Data Versions | Texture Versions
+Version | Data Releases | Resource Releases | Data Versions | Resource Versions
 ------- | ------------- | ---------------- | -------------- | ----------------
 1       | - | 1.6.1–1.8.9 | - | 
 2       | - | 1.9–1.10.2 | - | 15w31a–1.10.2
