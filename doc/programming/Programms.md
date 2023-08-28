@@ -1,4 +1,10 @@
-# VS Code Extensions
+## Tools
+Tool | Type | Use
+---- | ---- | ---
+[Minecraft Tools](https://minecraft.tools/en/) | Website | Command generator, docs, json generator
+[McStacker](https://mcstacker.net) | Website | Command generator
+
+## VS Code Extensions
 Extension | Filetypes | Use
 --------- | --------- | ---
 [Data-pack Helper Plus](https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server) | `.json`, `.mcmeta` | Minecraft json data syntax (meta, recipes, dimensions, biomes, etc.)
