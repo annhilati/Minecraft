@@ -1,41 +1,11 @@
-# Comments
+# Commenting code
+See [Filetypes](https://github.com/annhilati/minecraft/blob/main/doc/programming/Filetypes.md) for an overwiev of where is wich syntax used
+Syntax | Single-line | Multiline start | Multiline end
+------ | ----------- | --------------- | -------------
+GLSL | `//` | `/*` | `*/`
+Java Properties | `#` |  |
+JSON | - | - | -
+Language | `/` |  |
+Minecraft function | `#` | - | -
+YAML | `#` |  |
 
-### GLSL (.glsl; .fsh; .vsh; .settings)
-```glsl
-/*
-Comment
-*/
-
-code{
-	option = value();
-}
-
-// Another Comment //
-```
-
-### Java properties (.properties)
-```properties
-option=value
-# Comment
-```
-
-### JSON (.json; .mcmeta)
-JSON doesnt support comments. Its data only
-
-### Language (.lang)
-```
-option=value
-/ Comment
-```
-
-### Minecraft function (.mcfunction)
-```mcfunction
-command to do something
-# Comment
-```
-
-### YAML (.yml)
-```yaml
-option: value
-# Comment
-```
