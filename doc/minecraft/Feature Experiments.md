@@ -1,5 +1,6 @@
 # Feature Experiments
-Separately activatable feature packages  
+Separately activatable feature packages
+* Used in `initial-enabled-packs` in `server.properties`  
 [Minecraft Wiki](https://minecraft.fandom.com/wiki/Experimental_Gameplay#Features_(Java_Edition))
 Name        | ID          | Releases      | Versions | Content
 ----------- | ----------- | ------------- | --------- | -------

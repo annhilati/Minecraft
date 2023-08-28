@@ -1,3 +1,4 @@
+# Filetypes
   | File extension | Syntax | Vanilla Use | Optifine Use
   | -------------- | ------ | ----------- | ------------
   | .fsh .vsh .gsh .csh | GLSL | Define core shaders | Define shaders
