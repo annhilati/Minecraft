@@ -1,5 +1,3 @@
 # Minecraft Coding
 
-This repositorie provides various information about coding in Minecraft, especially Datapacks and Shaders.
-
-Especially the basics of programming and scripting languages and the best programs to work with them are presented here.
+This repository provides some technical information and tutorials for coding and making things compatible in Minecraft
