@@ -1,3 +1,4 @@
+# Generators and tools
 ## Tools
 Tool | Type | Use
 ---- | ---- | ---
@@ -5,7 +6,7 @@ Tool | Type | Use
 [McStacker](https://mcstacker.net) | Website | Command generator
 [gradient-json-minecraft](https://github.com/rackodo/gradient-json-minecraft) | Python | Color gradiant json text component generator
 
-## VS Code Extensions
+## VS Code extensions
 Extension | Filetypes | Use
 --------- | --------- | ---
 [Data-pack Helper Plus](https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server) | `.json`, `.mcmeta` | Minecraft json data syntax (meta, recipes, dimensions, biomes, etc.)
