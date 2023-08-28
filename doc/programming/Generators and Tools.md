@@ -7,7 +7,7 @@ Tool | Type | Use
 [gradient-json-minecraft](https://github.com/rackodo/gradient-json-minecraft) | Python | Color gradiant json text component generator
 
 ## VS Code extensions
-Extension | Filetypes | Use
+Extension | [Filetypes](https://github.com/annhilati/minecraft/blob/main/doc/programming/Filetypes.md) | Use
 --------- | --------- | ---
 [Data-pack Helper Plus](https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server) | `.json`, `.mcmeta` | Minecraft json data syntax (meta, recipes, dimensions, biomes, etc.)
 [language-mcfunction](https://marketplace.visualstudio.com/items?itemName=arcensoth.language-mcfunction) | `.mcfunction` | Minecraft functions syntax and highlighting
