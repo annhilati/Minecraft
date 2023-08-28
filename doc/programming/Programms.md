@@ -3,6 +3,7 @@ Tool | Type | Use
 ---- | ---- | ---
 [Minecraft Tools](https://minecraft.tools/en/) | Website | Command generator, docs, json generator
 [McStacker](https://mcstacker.net) | Website | Command generator
+[gradient-json-minecraft](https://github.com/rackodo/gradient-json-minecraft) | Python | Color gradiant json text component generator
 
 ## VS Code Extensions
 Extension | Filetypes | Use
