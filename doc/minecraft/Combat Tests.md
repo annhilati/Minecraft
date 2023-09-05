@@ -1,5 +1,6 @@
 # Combat Tests
-Special development versions for testing new combat mechanics
+Special development versions for testing new combat mechanics  
+[Minecraft Wiki](https://minecraft.fandom.com/wiki/Java_Edition_Combat_Tests)
 
 Version | Forked Version | Essential Changes
 ------- | ---------------- | ------------------
