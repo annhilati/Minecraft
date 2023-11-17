@@ -22,3 +22,10 @@ Version | Data Releases | Resource Releases | Data Versions | Resource Versions
 16      | - | - | 23w31a | 23w31a
 17      | - |  | 23w32a-23w35a | 23w32a-
 18      |  |  | 1.20.2-pre1- | 1.20.2-pre2
+19      |  |  | 23w40a- |
+20      |  |  | 23w41a | 23w43a-
+21      |  |  | 23w42a- |
+22      |  |  | 23w43a-23w43b |
+23      |  |  | 23w44a- |
+24      |  |  | 23w45a- |
+25      |  |  | 23w46a- |
