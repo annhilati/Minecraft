@@ -1,5 +1,5 @@
 # pack_format
-Used for specifying the compatibility for resource packs and versions  
+Used for specifying the compatibility for resource packs, data packs and versions  
 [Minecraft Wiki](https://minecraft.fandom.com/wiki/Pack_format)
 
 Version | Data Releases | Resource Releases | Data Versions | Resource Versions
