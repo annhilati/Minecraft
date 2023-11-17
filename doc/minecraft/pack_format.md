@@ -1,6 +1,6 @@
 # pack_format
 Used for specifying the compatibility for resource packs, data packs and versions  
-[Minecraft Wiki](https://minecraft.fandom.com/wiki/Pack_format)
+[Minecraft Wiki](https://minecraft.wiki/w/Pack_format)
 
 Version | Data Releases | Resource Releases | Data Versions | Resource Versions
 ------- | ------------- | ---------------- | -------------- | ----------------
