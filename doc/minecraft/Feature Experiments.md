@@ -7,5 +7,5 @@ Name        | ID          | Releases      | Versions | Content
 ----------- | ----------- | ------------- | --------- | -------
 Update 1.20 | `update_1_20` | 1.19.3-1.19.4 | 22w42a-1.19.4 | Features for the 1.20 update: cherry wood, bamboo blocks, hanging signs, archaeology, etc.
 Bundles     | `bundle`      | 1.19.3-       | 22w42a-  | Bundles
-Villager Trade Reballance | `trade_rebalance` | ? | 23w31a- | New trade mechanics for villagers and wandering traders
-Update 1.21 | `update_1_21` | ? | 23w42a- | Features for the 1.21 update: trial chambers, copper blocks, tuff blocks, crafter, etc.
+Villager Trade Reballance | `trade_rebalance` | 1.20.2- | 23w31a- | New trade mechanics for villagers and wandering traders
+Update 1.21 | `update_1_21` | 1.20.3- | 23w42a- | Features for the 1.21 update: trial chambers, copper blocks, tuff blocks, crafter, etc.
