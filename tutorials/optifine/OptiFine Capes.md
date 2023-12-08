@@ -28,13 +28,5 @@
             <td>Zeile 2, Spalte 5</td>
             <td>Zeile 2, Spalte 6</td>
         </tr>
-        <tr>
-            <td>Zeile 3, Spalte 1</td>
-            <td>Zeile 3, Spalte 2</td>
-            <td>Zeile 3, Spalte 3</td>
-            <td>Zeile 3, Spalte 4</td>
-            <td>Zeile 3, Spalte 5</td>
-            <td>Zeile 3, Spalte 6</td>
-        </tr>
     </tbody>
 </table>
