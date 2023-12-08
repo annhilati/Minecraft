@@ -14,7 +14,7 @@
     <tbody>
         <tr>
             <td>Zeile 1, Spalte 1</td>
-            <td>Zeile 1, Spalte 2</td>
+            <td><img align="center" height="50" src="https://github.com/annhilati/annhilati/blob/main/GitHub%20images/minecraft/Bracket%20Cape.png" /></td>
             <td>Zeile 1, Spalte 3</td>
             <td>Zeile 1, Spalte 4</td>
             <td>Zeile 1, Spalte 5</td>
@@ -38,3 +38,5 @@
         </tr>
     </tbody>
 </table>
+
+https://github.com/annhilati/annhilati/blob/main/GitHub%20images/minecraft/Bracket%20Cape.png
