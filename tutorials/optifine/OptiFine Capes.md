@@ -3,12 +3,12 @@
 <table border="1">
     <thead>
         <tr>
-            <th>Spalte 1</th>
-            <th>Spalte 2</th>
-            <th>Spalte 3</th>
-            <th>Spalte 4</th>
-            <th>Spalte 5</th>
-            <th>Spalte 6</th>
+            <th>Name</th>
+            <th>Image</th>
+            <th><a href="https://livzmc.net/banner/">URL</a>/th>
+            <th>Align</th>
+            <th>Top</th>
+            <th>Bottom</th>
         </tr>
     </thead>
     <tbody>
