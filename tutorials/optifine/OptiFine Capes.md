@@ -14,7 +14,7 @@
     <tbody>
         <tr>
             <td>Brackets</td>
-            <td><p align="center"><img height="50" src="https://github.com/annhilati/annhilati/blob/main/GitHub%20images/minecraft/Bracket%20Cape.png" /></p></td>
+            <td><p align="center"><img height="50" src="https://github.com/annhilati/annhilati/blob/main/github/assets/minecraft/Bracket%20Cape.png" /></p></td>
             <td><code>aaptaoaoaoaFaFagag</code></td>
             <td>Middle</td>
             <td><code>191919</code></td>
