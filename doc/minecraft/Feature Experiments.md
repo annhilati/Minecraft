@@ -2,8 +2,6 @@
 # Feature Experiments <a href="https://minecraft.wiki/w/Experimental_Gameplay#Features_(Java_Edition)" target="_blank" rel="noreferrer"><img src="https://minecraft.wiki/images/Wiki_Logo_on_Fandom.png?af1c" width="50" height="50" alt="Minecraft Wiki" align="right" /></a>
 Separately activatable feature packages
 * Used in `initial-enabled-packs` in `server.properties`
-  
-[Minecraft Wiki](https://minecraft.wiki/w/Experimental_Gameplay#Features_(Java_Edition))
 
 Name        | ID          | Releases      | Versions | Content
 ----------- | ----------- | ------------- | --------- | -------
