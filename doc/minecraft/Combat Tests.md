@@ -1,6 +1,5 @@
-# Combat Tests
+# Combat Tests <a href="https://minecraft.fandom.com/wiki/Java_Edition_Combat_Tests" target="_blank" rel="noreferrer"><img src="https://minecraft.wiki/images/Wiki_Logo_on_Fandom.png?af1c" width="50" height="50" alt="Minecraft Wiki" align="right" /></a>
 Special development versions for testing new combat mechanics  
-[Minecraft Wiki](https://minecraft.fandom.com/wiki/Java_Edition_Combat_Tests)
 
 Version | Forked Version | Essential Changes
 ------- | ---------------- | ------------------
