@@ -17,7 +17,7 @@
             <td><p align="center"><img height="50" src="https://github.com/annhilati/annhilati/blob/main/github/assets/minecraft/Bracket%20Cape.png" /></p></td>
             <td><code>aaptaoaoaoaFaFagag</code></td>
             <td>Middle</td>
-            <td><code>191919</code></td>
+            <td><code>#191919</code></td>
             <td><code>191919</code></td>
         </tr>
     </tbody>
