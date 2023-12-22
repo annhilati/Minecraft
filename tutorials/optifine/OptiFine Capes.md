@@ -20,13 +20,5 @@
             <td><code>191919</code></td>
             <td><code>191919</code></td>
         </tr>
-        <tr>
-            <td>Zeile 2, Spalte 1</td>
-            <td>Zeile 2, Spalte 2</td>
-            <td>Zeile 2, Spalte 3</td>
-            <td>Zeile 2, Spalte 4</td>
-            <td>Zeile 2, Spalte 5</td>
-            <td>Zeile 2, Spalte 6</td>
-        </tr>
     </tbody>
 </table>
