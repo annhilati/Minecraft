@@ -2,7 +2,7 @@
 * Color Name ID
   * JSON text component
 * Color Code
-  * Plugin configuration
+  * Plugin configuration: **sometimes has to be used with & instead of §**
 * Hex Code
   * JSON text component
 
