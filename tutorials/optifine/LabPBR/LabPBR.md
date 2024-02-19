@@ -1,1 +1,0 @@
-#REDIRECT [[[LabPBR Resources](https://gist.github.com/annhilati/78c5b3eb6e71ba13760ef0eff38dce34)]]
