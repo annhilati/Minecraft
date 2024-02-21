@@ -1,10 +1,10 @@
 # Modification Types
-Modification Type | Modifying | Modding-API | Vicinity
------------------ | --------- | ----------- | --------
-Resourcepack | Client | Minecraft | Images, GLSL
-Datapack | World | Minecraft | Minecraft Datapack, mcfunction
-Modified Client | Client | - | Java
-Modified Server | Server | - | Java
-Plugin | Server | Bukkit, Spigot, Paper, etc. | Java
-Mod | Client | Forge, Fabric, etc. | Java
-Shader | Client | OptiFine, Iris | GLSL
+Modification Type | Modifying | Modding-API | Vicinity | Examples
+----------------- | --------- | ----------- | -------- | --------
+Resourcepack | Client | Minecraft | Images, GLSL | Bare and Bones
+Datapack | World | Minecraft | Minecraft Datapack, mcfunction | Terralith
+Modified Client | Client | - | Java | Lunar Client
+Modified Server | Server | - | Java | Paper
+Plugin | Server | Bukkit, Spigot, Paper, etc. | Java | EssentialsX
+Mod | Client | Forge, Fabric, etc. | Java | Create
+Shader | Client | OptiFine, Iris | GLSL | SEUS
